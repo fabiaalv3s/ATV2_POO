@@ -18,7 +18,7 @@ dispositivos móveis, como celulares e/ou tablets, por exemplo.
   
 - Faça o clone do repositório:
 ```
--> git clone https://github.com/fabiaalv3s/ATV2_POO.git
+git clone https://github.com/fabiaalv3s/ATV2_POO.git
 ```
 
 - Instale as dependências do projeto:
@@ -28,4 +28,4 @@ npm install
 
 - Execute a aplicação pelo comando:
 ```
--> npm start
+npm start
