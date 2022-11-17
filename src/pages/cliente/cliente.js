@@ -7,7 +7,7 @@ const Cliente = () => {
     return ( 
         <div className=" form">
             <a href="/"><FontAwesomeIcon icon={faArrowLeft} /></a>
-            <div id="logoWb">WB - World Beauty</div>   
+            <div id="logoWb">WB</div>   
             <div className="tituloHome">Cliente</div>
             <form action="#">
                 <div className="Home">

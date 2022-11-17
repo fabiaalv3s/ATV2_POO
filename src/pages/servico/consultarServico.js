@@ -34,7 +34,8 @@ const ConsultarServico = () => {
     return (
         <div className="container" >
             <a href="/Servico"><FontAwesomeIcon icon={faArrowLeft} /></a>
-            <div id="logoWb">WB</div> 
+            <div id="logoWb"></div> 
+
             <div className="titulo">Serviços</div>
             <form action="#">
                 <div className="details">

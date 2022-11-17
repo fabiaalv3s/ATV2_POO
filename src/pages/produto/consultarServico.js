@@ -29,6 +29,11 @@ const ConsultarProduto = () => {
             ID: '05',
             Nome: 'Esmalte',
             Preço: 'R$ 5'
+        },
+        {
+            ID: '06',
+            Nome: 'Pó descolorante',
+            Preço: 'R$ 12'
         }
     ];
     return (

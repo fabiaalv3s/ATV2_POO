@@ -2,12 +2,12 @@ import React from 'react';
 import BotaoHome from "./botaoHome";
 import "./home.css"
 
-
-
-const Home = () => {
+const Home = () => { 
     return (
         <div className=" form">
-              <div id ="logoWb">WB - World Beauty</div>
+            <div id="imagem2">
+                <img src={require('./Imagem2.png')} alt='logo' width="85" height = "80"/>
+            </div>
             <div className="tituloHome">Home</div>
             
             <form action="#">
