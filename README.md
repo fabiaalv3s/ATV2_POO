@@ -2,6 +2,8 @@
 
 <h2> 📑 Atividade 2 - Programação Orientada a Objeto </h2>
 <p>
+-> continuação ATV1_POO
+
 O  sistema  desenvolvido  para  o  grupo  WB  foi  um  sucesso.  Todas  as  franquias  do  grupo  adotaram  a  solução desenvolvidapor você, 
 na tua empresa especializada em desenvolvimento de software. Mas, apesar de todo o sucesso, há uma questão ainda não resolvida. O sistema não tem uma GUI.
 
