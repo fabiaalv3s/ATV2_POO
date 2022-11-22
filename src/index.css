@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: -webkit-linear-gradient(-45deg,#51ffcb,#538fff,#7954fd);
+  background: #54a3fd
 }
 .content {
   max-width: 100%;
