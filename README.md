@@ -1,6 +1,6 @@
                                            FATEC Profº Jessen Vidal, SJC - 3º Semestre ADS
 
-<h2> 📑 Atividade 2 - Programação Orientada a Objeto </h2>
+<h2> Atividade 2 - Programação Orientada a Objeto </h2>
 <p>
 -> continuação ATV1_POO
 
@@ -14,7 +14,7 @@ dispositivos móveis, como celulares e/ou tablets, por exemplo.
 </p>
    
   
-<h2> ⛏️ Para executar </h2>
+<h2> Para executar </h2>
   
 - Faça o clone do repositório:
 ```
